@@ -7,6 +7,8 @@ The materials include:
 - [The slides of the workshop](https://github.com/gdzqzzx/playing-with-api/blob/main/playing_with_api.pdf);
 
 - [A demo jupyter notebook for Trove API](https://github.com/gdzqzzx/playing-with-api/blob/main/play_with_trove.ipynb). The notebook introduces how to build up a harvesting workflow with Trove API.
+
+  If you want to play with this notebook without any installation, try to use [Colab](https://research.google.com/colaboratory/faq.html). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gdzqzzx/playing-with-api/blob/main/play_with_trove.ipynb)
   
   **【Important Note】**
   
